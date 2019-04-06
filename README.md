@@ -24,7 +24,7 @@ AWCoreController awCoreController =
                         new AWCoreController(Activity或Fragment, new AWCoreController.OnAgentDataLoadingListener() {
                             @Override
                             public void onWebLoading(String html) {
-                                // html加载中的目标网页源码
+                                // html为加载中的目标网页源码
                             }
                         });
 // 加载URL
