@@ -1,5 +1,3 @@
-package com.example.comicapp.controllers;
-
 import android.app.Activity;
 import android.net.http.SslError;
 import android.support.v4.app.Fragment;
