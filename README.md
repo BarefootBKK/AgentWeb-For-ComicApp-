@@ -1,4 +1,4 @@
-# AgentWeb-For-ComicApp-
+# AgentWeb-For-OrangeC-Comics
 
 本项目封装了AgentWeb，以满足[【漫画APP】](https://blog.csdn.net/HBK_MySummerCT/article/details/89057970)项目的使用需要，也可以在源码上自定义所需功能。
 
